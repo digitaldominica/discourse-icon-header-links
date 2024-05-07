@@ -35,7 +35,7 @@ export default {
 
           const iconComponent = <template>
             <li
-              class="custom-header-icon-link
+              class="custom-header-icon-link header-dropdown-toggle
                 {{className}}
                 {{viewClass}}
                 {{isLastLink}}"
